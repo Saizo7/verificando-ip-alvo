@@ -25,4 +25,4 @@ Este é um script em Python focado em **automação de rede e reconhecimento (Re
 1. Baixe o script na sua máquina.
 2. Execute o arquivo principal:
 ```bash
-python seu_script.py
+python reconhecendo_ip_alvo.py
