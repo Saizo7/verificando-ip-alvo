@@ -1,7 +1,0 @@
-Alvo: www.python.org | IP: 151.101.0.223 | Status: ONLINE
-Alvo: www.python.org | IP: 151.101.0.223 | Status: ONLINE
-Alvo: www.python.org | IP: 151.101.0.223 | Status: ONLINE
-Alvo: orkut.com | IP: 216.239.32.21 | Status: ONLINE
-Alvo: wxmaps.org | IP: 64.99.64.32 | Status: ONLINE
-Alvo: 192.168.1.250 | IP: 192.168.1.250 | Status: ONLINE
-Alvo: 192.168.1.250 | IP: 192.168.1.250 | Status: OFFLINE
